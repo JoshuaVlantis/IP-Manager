@@ -51,7 +51,7 @@ goto choice
 
 :Premade
 cls
-::EDIT HERE TO ADD PRE MADE CONFIGS
+::EDIT HERE TO ADD PRE MADE CONFIGS.
 echo Select a pre made config
 echo _______________________________________
 echo _______________________________________
